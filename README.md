@@ -1,4 +1,5 @@
-# result-validator
-Write a program to find out whether a student has passed or failed if it requires a 
-total of 40% and at least 33% in each subject to pass. Assume 3 subjects and 
-take marks as an input from the user. 
+# Result-validator
+
+## About the Project
+
+This program is a student performance evaluation utility that determines whether a student has passed or failed their examinations based on multi-tier academic criteria. By processing user-inputted marks for three individual subjects, the script validates performance against two distinct thresholds: a minimum requirement of 33% in each individual subject and an overall cumulative average of at least 40%.
